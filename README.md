@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexalvarezjl
-- 👀 I’m interested in learning development
+- 👀 I’m interested in learning web development
 - 🌱 I’m currently learning HTML, JavaScript, React.
-- 💞️ I’m looking to collaborate on any good proyect
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me alexander.alv09@gmail.com
 
 <!---
